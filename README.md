@@ -21,6 +21,9 @@ Real-time inference and vehicle control
 Integration with the Udacity Self-Driving Car Simulator
 
 
+
+## File info
+
 [Driving_log_dataset](driving_log_3_cleaned.csv)  : Raw image dataset with image paths of center ,left,right cameras and with steering angle ,speed
 
 [Libraries](Libraries.py) : Required Libraries
